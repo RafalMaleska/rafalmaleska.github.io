@@ -1,18 +1,18 @@
-baseURL = "https://rafalmaleska.github.com/certs/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "certs"
+title = "slate theme demo"
 theme = "slate"
 
-publishDir = "public"
+publishDir = "docs"
 
 [ params ]
 Favicon = "favicon.ico"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
-name = "kafka"
-tag = "kafka"
-icon = "server"
+name = "favorites"
+tag = "favorite"
+icon = "star"
 
 [[ params.nav ]]
 name = "search"
