@@ -1,11 +1,11 @@
 # Site settings
-baseurl = "http://rafalmaleska.github.io/"
+baseurl = "https://rafalmaleska.github.io/"
 languageCode = "en-us"
 title = "pics"
 theme = "photo-grid"
 
 # Enter your tracking code to enable Google Analytics
-# googleAnalytics = "UA-88635181-1"
+googleAnalytics = "UA-88635181-1"
 
 [params]
     # Meta
