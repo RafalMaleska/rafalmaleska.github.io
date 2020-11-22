@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://rafalmaleska.github.io/"
+baseurl = "https://rafalmaleska.github.io/pics"
 languageCode = "en-us"
 title = "pics"
 theme = "photo-grid"
