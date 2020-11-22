@@ -1,0 +1,27 @@
+# Site settings
+baseurl = "http://rafalmaleska.github.io/"
+languageCode = "en-us"
+title = "pics"
+theme = "photo-grid"
+
+# Enter your tracking code to enable Google Analytics
+# googleAnalytics = "UA-88635181-1"
+
+[params]
+    # Meta
+    no_exif = false
+    title = "pics"
+    subtitle = ""
+    author = "Rafał Małeska"
+    description = "pics"
+    keywords = "photography, photos, foto, hugo, travel, gallery"
+
+    # Body background and  text color
+    bodybgcolor = "#3d3d3d"
+    bodytextcolor = "#f2f2f2"
+
+    # Footer text
+    #footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io), [Pavel](https://themes.gohugo.io/hugrid/) and [me](https://chen-zhe.github.io)."
+    
+    # Favicon
+    favicon = "photo/icon-32.png"
