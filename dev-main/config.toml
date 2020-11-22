@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://rafalmaleska.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -7,11 +7,11 @@ defaultContentLanguage = "en"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "../.."
+themesDir = "/themes"
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "Rafał Manhart-Małeska"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -35,7 +35,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-88635181-1"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -84,6 +84,22 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.en.menu.main]]
+        identifier = "pics"
+        pre = ""
+        post = ""
+        name = "pics"
+        url = "/pics/"
+        title = ""
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "certs"
+        pre = ""
+        post = ""
+        name = "certs"
+        url = "/certs/"
+        title = ""
+        weight = 5
+      [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
@@ -93,13 +109,13 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "Who is Rafał?"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Rafał Małeska", "Rafał Manhart", "Rafał", "Manhart", "Małeska", "Kubernetes", "Kafka", "GCP", "Travel"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "LoveIt"
+        title = "Who is Rafał?"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -141,7 +157,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "lib/img/avatar.png"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
