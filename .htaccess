@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^rafalmaleska\github\.io$
-RewriteRule (.*) http://www.rafalmaleska.github.io/$1 [R=301,L]
-RewriteRule ^$ store [L]

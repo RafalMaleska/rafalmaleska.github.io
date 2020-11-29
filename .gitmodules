@@ -1,6 +1,0 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
-[submodule "dev-main/themes/minimal"]
-	path = dev-main/themes/minimal
-	url = https://github.com/calintat/minimal.git
