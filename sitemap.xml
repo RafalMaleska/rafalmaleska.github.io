@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rafalmaleska.github.io/project/project1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/project/project4/</loc>
-  </url>
-  
-  <url>
     <loc>https://rafalmaleska.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -94,43 +78,11 @@
   </url>
   
   <url>
-    <loc>https://rafalmaleska.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/bootstrap/</loc>
-  </url>
-  
-  <url>
     <loc>https://rafalmaleska.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://rafalmaleska.github.io/tags/css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rafalmaleska.github.io/tags/syntax-highlighting/</loc>
+    <loc>https://rafalmaleska.github.io/about/</loc>
   </url>
   
 </urlset>
